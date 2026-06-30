@@ -137,4 +137,4 @@ Actinic Keratosis · Basal Cell Carcinoma · Dermatofibroma · Melanoma · Nevus
 
 ---
 
-> ⚠️ This is a research tool only and is not a substitute for professional medical diagnosis.
+> *This is a research tool only and is not a substitute for professional medical diagnosis.
