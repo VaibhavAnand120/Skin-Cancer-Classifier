@@ -14,7 +14,7 @@ Comparing 5 deep learning models for multi-class skin lesion classification usin
 | CNN with augmentation | 51.2% | 51.4% | 51.2% | 48.9% |
 | CNN with class balance (Augmentor) | 61.4% | 64.9% | 61.4% | 60.5% |
 | EfficientNetB0 | 87.7% | 88.9% | 87.7% | 87.8% |
-| ResNet50 ⭐ best | 90.7% | 90.7% | 90.7% | 93.5% |
+| ResNet50 (BEST) | 90.7% | 90.7% | 90.7% | 93.5% |
 
 ---
 
